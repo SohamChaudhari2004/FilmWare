@@ -15,6 +15,7 @@
 body {
   font-family: var(--font-roboto);
   background-color: #212426;
+  max-width: 180vh;
 }
 
 .app {
